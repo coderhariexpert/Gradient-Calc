@@ -18,18 +18,7 @@ body
 }
 
 
-.one 
-{
-    animation-delay: 2.2s;
-    transform: scale(2.15);
-}
 
-.seven 
-{
-    animation-delay: 2s;
-    transform: scale(1.5);
-
-}
 .container
 {
     width: 360px;
